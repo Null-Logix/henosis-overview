@@ -1,6 +1,6 @@
 # Security policy
 
-Henosis is pre-release alpha software distributed as signed binaries. Do not use it as the sole security boundary for an exposed production system.
+Henosis is unreleased pre-release alpha software. Do not use it as the sole security boundary for an exposed production system.
 
 ## Reporting a vulnerability
 
@@ -20,4 +20,4 @@ Model-supplied paths for the built-in file tools are capability-confined to the 
 
 ## Supply chain
 
-Every release carries `SHA256SUMS`, SPDX SBOMs, and SLSA provenance signed through GitHub OIDC by the private build workflow. Verify the checksum of any archive before installing it. The installers refuse archives whose digest does not match.
+The private build pipeline produces `SHA256SUMS`, SPDX SBOMs, and SLSA provenance signed through GitHub OIDC for every build. When releases are published here, verify the checksum of any archive before installing it.
