@@ -4,9 +4,9 @@ Henosis is unreleased pre-release alpha software. Do not use it as the sole secu
 
 ## Reporting a vulnerability
 
-Send a private report to [security@syntheos.dev](mailto:security@syntheos.dev). Include the affected version, a minimal reproduction, impact, and any safe mitigation. Do not post exploit details, credentials, private endpoints, or customer data in a public issue.
+Send a private report to [security@nulllogix.com](mailto:security@nulllogix.com). Include the affected version, a minimal reproduction, impact, and any safe mitigation. Do not post exploit details, credentials, private endpoints, or customer data in a public issue.
 
-Use [support@syntheos.dev](mailto:support@syntheos.dev) for non-sensitive operational support.
+Use [support@nulllogix.com](mailto:support@nulllogix.com) for non-sensitive operational support.
 
 ## Deployment boundary
 
