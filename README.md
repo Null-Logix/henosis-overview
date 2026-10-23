@@ -36,7 +36,7 @@ in this repository when the first tested release is ready.
 
 Evaluators, auditors, and prospective customers can request an evaluation build
 or time-limited source access by writing to
-[support@syntheos.dev](mailto:support@syntheos.dev) with the purpose and the
+[support@nulllogix.com](mailto:support@nulllogix.com) with the purpose and the
 GitHub account to grant.
 
 ## Trust model
