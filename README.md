@@ -77,8 +77,8 @@ closed until a deployment supplies trusted room state from Pistis.
 
 ## Security and support
 
-Send vulnerability reports to [security@syntheos.dev](mailto:security@syntheos.dev).
-Send non-sensitive support requests to [support@syntheos.dev](mailto:support@syntheos.dev).
+Send vulnerability reports to [security@nulllogix.com](mailto:security@nulllogix.com).
+Send non-sensitive support requests to [support@nulllogix.com](mailto:support@nulllogix.com).
 Do not put credentials, private endpoints, or exploit details in a public issue.
 
 ## License
@@ -88,4 +88,4 @@ under the [PolyForm Noncommercial License 1.0.0](LICENSE). Personal, hobby,
 research, and other noncommercial use is permitted. Any commercial use,
 including selling, reselling, hosting, bundling, or otherwise earning revenue
 from this software, requires a separate written commercial license. Contact
-[support@syntheos.dev](mailto:support@syntheos.dev).
+[support@nulllogix.com](mailto:support@nulllogix.com).
